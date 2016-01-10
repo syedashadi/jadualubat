@@ -16,11 +16,11 @@
 	</div><!-- /header -->
 				<FORM METHOD="POST" ACTION="login.php" ENCTYPE="x-www-form-urlencoded">
 					<br>
-				<label for="login">Username:</label>
+				<!--label for="login">Username:</label-->
 		
 				<input name="login" placeholder='username'>
 		
-				<label for="username">Password:</label>
+				<!--label for="username">Password:</label-->
 
 				<input name="password" type="password" placeholder='password'>
 		
@@ -30,7 +30,7 @@
 		
 	<!-- /page -->
 	<div data-role="footer" data-theme="d">
-		<h4>Page Footer</h4>
+		<h4></h4>
 	</div><!-- /footer -->
 </body>
 </html>
